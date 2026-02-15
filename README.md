@@ -1,7 +1,5 @@
-Álgebra Linear Aplicada a Linguagem de Programação Python 
+# Álgebra Linear e Geometria Analítica | Python
 
+Este repositório integra conceitos de Álgebra Linear e Geometria Analítica com a prática computacional em Python. O objetivo foi utilizar a programação como ferramenta de apoio à engenharia, automatizando cálculos matemáticos fundamentais.
 
-
-Este repositório tem como objetivo aplicar a linguagem Python no estudo de Álgebra Linear e Geometria Analítica, integrando conceitos matemáticos fundamentais com a prática computacional. Por meio de exercícios práticos, são trabalhados conteúdos básicos da programação, como tipos de dados, variáveis, listas e tuplas, operadores matemáticos, estruturas de repetição e condicionais, além da criação de funções.
-
-Ao longo das atividades, o uso de matrizes é explorado tanto de forma manual, com listas de listas, quanto por meio das bibliotecas math e NumPy, permitindo realizar operações como soma e multiplicação de vetores e matrizes, cálculo de norma, produto escalar, verificação de ortogonalidade e determinante de matrizes. A proposta do repositório é reforçar a compreensão dos conceitos teóricos da disciplina, ao mesmo tempo em que desenvolve a lógica de programação e o uso do Python como ferramenta de apoio ao aprendizado em engenharia e áreas afins.
+O projeto explorou a manipulação de matrizes e vetores tanto de forma manual (listas de listas) quanto através das bibliotecas **NumPy** e **math**. Foram implementadas funções para soma e multiplicação de matrizes, cálculos de norma, produto escalar, determinante e verificação de ortogonalidade. O desenvolvimento reforçou o uso de funções, estruturas de repetição e tipos de dados aplicados à resolução de problemas matemáticos complexos.
